@@ -1,0 +1,14 @@
+.signup{
+  background-color: #ff4d4d; 
+  border: none;
+  color: white !important;
+  width: 100px;
+  padding: 10px;
+  border-radius: 10%;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+.nav-link{
+  margin-left: 30px;
+}
